@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1686262040 source:c:\users\g\desktop\a\ladders\main.cpp
+	<iostream>
+	"rlutil.h"
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	"ABSTRACCION.h"
+
+1686098782 c:\users\g\desktop\a\ladders\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686261735 c:\users\g\desktop\a\ladders\abstraccion.h
+	"rlutil.h"
+	<time.h>
+	<cstdlib>
+
